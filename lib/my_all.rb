@@ -9,5 +9,7 @@ def my_all?(collection)
       i += 1
     end
     return final_result
+  else
+    return nil
   end
 end
